@@ -24,6 +24,11 @@ As bibliotecas para realizar a tarefa podem ficar a sua escolha, mas para facili
 
 10 dias
 
+## Formato da entrega
+
+Crie um repositório com seu código, documentação, vídeo de entrada e de saída.
+A solução pode ser entregue em .py ou .ipynb
+
 ## Avaliação
 
 - O código está bem estruturado e legível?
